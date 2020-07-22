@@ -1,0 +1,4 @@
+requests
+xlsxwriter
+bs4
+schedule
